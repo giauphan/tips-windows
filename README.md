@@ -2,7 +2,7 @@
 
 # Reset password When not login in windows 
 ```
-net user yourusername yourpassword
+net user yourusername *
 ```
 
 # Check List user
