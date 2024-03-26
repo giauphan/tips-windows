@@ -1,6 +1,6 @@
 # tips-windows
 
-# Reset password When not login in windows 
+# Reset password When forgot password in windows 
 ## Step 1
 ``
 "C:\Windows\System32\Utilman.exe"
