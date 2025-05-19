@@ -19,3 +19,17 @@ net user yourusername *
 ```
 net user
 ```
+
+## Stop Windown update
+
+# Open the Search Box
+
+1. Press Windows key + S
+2. Type "System Configuration"
+3. Click on "System Configuration" in the results
+
+# In the System Configuration window
+1. Click on the "Services" tab
+2. Scroll down and locate "Windows Update"
+3. Uncheck the box next to "Windows Update"
+4. Click "Apply" then "OK"
